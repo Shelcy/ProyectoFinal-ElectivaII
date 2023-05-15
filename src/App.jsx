@@ -37,7 +37,7 @@ function App() {
         <div className={styles.header}>
           <div className={styles.info}>
             <div className={styles.info_logo}>
-              <img src="./src/assets/logo.svg" />
+              <img src="/images/logo.svg" />
             </div>
             <div className={styles.info_information}>
               <span className={styles.info_information_title}>
@@ -121,7 +121,7 @@ function App() {
             <div className={styles.content_others_item}>
               <a href="https://www.bancolombia.com/centro-de-ayuda/canales/sucursal-virtual-personas" target="_blank" rel="noreferrer">
                 <div className={styles.content_others_item_icon}>
-                  <img src="./src/assets/icon_1.png" alt="Icon1" />
+                  <img src="/images/icon_1.png" alt="Icon1" />
                 </div>
                 <div className={styles.content_others_item_text}>
                 Conoce sobre Sucursal Virtual Personas
@@ -131,7 +131,7 @@ function App() {
             <div className={styles.content_others_item}>
               <a href="https://www.bancolombia.com/educacion-financiera/seguridad-bancaria/seguridad-informatica" target="_blank" rel="noreferrer">
                 <div className={styles.content_others_item_icon}>
-                  <img src="./src/assets/icon_2.png" alt="Icon1" />
+                  <img src="/images/icon_2.png" alt="Icon1" />
                 </div>
                 <div className={styles.content_others_item_text}>
 								Aprende sobre Seguridad
@@ -141,7 +141,7 @@ function App() {
             <div className={styles.content_others_item}>
               <a href="https://www.bancolombia.com/wcm/connect/www.grupobancolombia.com15880/cdd7ef14-0302-4906-8913-9313b98e060e/REGLAMENTO+BANCA+POR+INTERNET+a+partir+salida+OTP+06+junio.pdf?MOD=AJPERES&amp;CVID=m82iJ3m" target="_blank" rel="noreferrer">
                 <div className={styles.content_others_item_icon}>
-                  <img src="./src/assets/icon_3.png" alt="Icon1" />
+                  <img src="/images/icon_3.png" alt="Icon1" />
                 </div>
                 <div className={styles.content_others_item_text}>
 								Reglamento Sucursal Virtual
@@ -151,7 +151,7 @@ function App() {
             <div className={styles.content_others_item}>
               <a href="https://www.bancolombia.com/personas/documentos-legales/proteccion-datos/bancolombia-sa" target="_blank" rel="noreferrer">
                 <div className={styles.content_others_item_icon}>
-                  <img src="./src/assets/icon_4.png" alt="Icon1" />
+                  <img src="/images/icon_4.png" alt="Icon1" />
                 </div>
                 <div className={styles.content_others_item_text}>
 								Política de Privacidad
